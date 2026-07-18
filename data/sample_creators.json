@@ -1,0 +1,14 @@
+{
+  "creators": [
+    {
+      "id": "C001",
+      "name": "Sample Creator 1",
+      "video_paths": ["./videos/creator1_video1.mp4"]
+    },
+    {
+      "id": "C002",
+      "name": "Sample Creator 2",
+      "video_paths": ["./videos/creator2_video1.mp4"]
+    }
+  ]
+}
